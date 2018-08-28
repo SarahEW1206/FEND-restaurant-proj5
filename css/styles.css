@@ -254,12 +254,11 @@ nav h1 a {
 .inside #main-content {
   display: flex;
 }
-.inside #map-container {
+.inside #detail-map-container {
   background: blue none repeat scroll 0 0;
   height: 300px;
   position: sticky;
   z-index: 99999;
-  /*right: 0;*/
   top: 130px;
   width: 100%;
 }
@@ -387,7 +386,7 @@ width: 85%;
 
 @media screen and (min-width: 800px) {
 
-  .inside #map-container {
+  .inside #detail-map-container {
     height: calc(100% - 131px);
     position: fixed;
     z-index: 99999;
