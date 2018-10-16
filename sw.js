@@ -21,6 +21,15 @@ const cacheAssets = [
 'https://sarahew1206.github.io/FEND-restaurant-proj5/img/7.jpg',
 'https://sarahew1206.github.io/FEND-restaurant-proj5/img/8.jpg',
 'https://sarahew1206.github.io/FEND-restaurant-proj5/img/9.jpg',
+'https://sarahew1206.github.io/FEND-restaurant-proj5/restaurant.html?id=1',
+'https://sarahew1206.github.io/FEND-restaurant-proj5/restaurant.html?id=2',
+'https://sarahew1206.github.io/FEND-restaurant-proj5/restaurant.html?id=3',
+'https://sarahew1206.github.io/FEND-restaurant-proj5/restaurant.html?id=4',
+'https://sarahew1206.github.io/FEND-restaurant-proj5/restaurant.html?id=5',
+'https://sarahew1206.github.io/FEND-restaurant-proj5/restaurant.html?id=6',
+'https://sarahew1206.github.io/FEND-restaurant-proj5/restaurant.html?id=7',
+'https://sarahew1206.github.io/FEND-restaurant-proj5/restaurant.html?id=8',
+'https://sarahew1206.github.io/FEND-restaurant-proj5/restaurant.html?id=9',
 ];
 
 
